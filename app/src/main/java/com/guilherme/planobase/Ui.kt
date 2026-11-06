@@ -160,7 +160,7 @@ fun MainScreen() {
             Row(verticalAlignment = Alignment.Bottom) {
                 Column(Modifier.weight(1f)) {
                     Eyebrow("Peso corporal · sem impacto")
-                    Title("PLANO BASE", 36.sp)
+                    Title("TREINO", 36.sp)
                 }
                 Eyebrow("Nível ${Store.level}", C.accent)
             }
