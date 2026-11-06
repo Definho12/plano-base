@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
-    <!-- anel de progresso com marcador: provisório -->
-    <path android:fillColor="#00000000" android:strokeColor="#2A3632" android:strokeWidth="6"
-        android:pathData="M54,32 A22,22 0 1,1 53.99,32" />
-    <path android:fillColor="#00000000" android:strokeColor="#4DBF9C" android:strokeWidth="6" android:strokeLineCap="round"
-        android:pathData="M54,32 A22,22 0 1,1 32,54" />
-    <path android:fillColor="#E7EEEB" android:pathData="M50,44 L50,64 L64,54 Z" />
+    <!-- três barras de nível; a primeira em destaque -->
+    <path android:fillColor="#4DBF9C" android:pathData="M37.2,56.4 h4.8 a2.4,2.4 0 0 1 2.4,2.4 v11.2 a2.4,2.4 0 0 1 -2.4,2.4 h-4.8 a2.4,2.4 0 0 1 -2.4,-2.4 v-11.2 a2.4,2.4 0 0 1 2.4,-2.4 z" />
+    <path android:fillColor="#E7EEEB" android:pathData="M51.6,46.8 h4.8 a2.4,2.4 0 0 1 2.4,2.4 v20.8 a2.4,2.4 0 0 1 -2.4,2.4 h-4.8 a2.4,2.4 0 0 1 -2.4,-2.4 v-20.8 a2.4,2.4 0 0 1 2.4,-2.4 z" />
+    <path android:fillColor="#E7EEEB" android:pathData="M66.0,35.6 h4.8 a2.4,2.4 0 0 1 2.4,2.4 v32.0 a2.4,2.4 0 0 1 -2.4,2.4 h-4.8 a2.4,2.4 0 0 1 -2.4,-2.4 v-32.0 a2.4,2.4 0 0 1 2.4,-2.4 z" />
 </vector>
