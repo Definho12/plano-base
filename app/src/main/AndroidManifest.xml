@@ -16,7 +16,7 @@
     </queries>
 
     <application
-        android:label="Treino"
+        android:label="Atlas"
         android:icon="@mipmap/ic_launcher"
         android:roundIcon="@mipmap/ic_launcher"
         android:theme="@style/Theme.PlanoBase"
